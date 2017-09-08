@@ -1,0 +1,7 @@
+{
+  "name": "AlerteMarche",
+  "short_name": "AlerteMarche",
+  "description": "Classified App",
+  "start_url": "/",
+  "display": "standalone"
+}
